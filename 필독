@@ -1,0 +1,2 @@
+노드js 모듈은 따로 다운로드를 받으셔야 합니다.
+npm install express express-myconnection mysql morgan ejs
